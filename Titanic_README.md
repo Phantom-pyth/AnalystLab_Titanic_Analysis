@@ -129,8 +129,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 bash
  Clone the repository
 git clone https://github.com/YOUR_USERNAME/titanicsurvivalanalysis.git
-cd titanicsurvivalanalysis
-
+cd titanicsurvivalanalysishttps://github.com/Phantom-pyth/AnalystLab_Titanic_Analysis.git
  Launch the Jupyter Notebook
 jupyter notebook Titanic_Survival_Analysis.ipynb
 
